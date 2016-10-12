@@ -1,22 +1,20 @@
-- There is no behind the camera
+# There is no behind the camera
 
 * If you don’t want to be in the scene you'll need to hide and remotely control the camera
 * What if the people around us don’t want to be seen on camera?
 
-- No need to pan or tilt
+# No need to pan or tilt
 
 * Since the 360-degree camera shoots everything in the scene, you don’t need to pan or tilt
 * When tracking or static don't turn the camera to the action (See direction) 
 
-- Close up and far away
+# Close up and far away
 
 * Things that are close will look distorted because of the lens
 * Things that are far away will be indistinguishable as the resolution of the screens is not good enough
 * Stay within a 3 - 5 feet  of the camera, you'll want to keep the camera closer to the action than you think
 
-** ADD IN SOMETHING ABOUT THE IDEAL DISTANCE
-
-- Direction
+# Direction
 
 The viewer is the camera and they are part of your scene. Ask yourself what there role is and direct the scene accordingly.
 
@@ -29,7 +27,7 @@ The viewer is the camera and they are part of your scene. Ask yourself what ther
 * You need to give the viewer enought time to move and digest what you are directing them too
 * Shooting direct to camera, the viewer acknowledge down the lens creates a high level of immersion
 
-- Shot positions
+# Shot positions
 
 The point of having a 360 degree view of scene is that you feel more immersed when wearing a headset but most importantly that there are things to look at in various directions.
 
@@ -39,7 +37,7 @@ The point of having a 360 degree view of scene is that you feel more immersed wh
 * Stabilize the camera especially if intending to view on a headset
 * Honor the horizon line, especiially if intending to view on a headset
 
-- Lighting
+# Lighting
 
 * Lighting will be in the shot
 * Embrace ambient light
@@ -47,7 +45,7 @@ The point of having a 360 degree view of scene is that you feel more immersed wh
 * This is a point and shot sub £200 camera it will artifact in darkness and won't handle things like a Arctic white out
 * Avoid positioning your talent directly under any overhead lights
 
-- Audio
+# Audio
 
 * The microphone is the viewers ears, place it at roughly the same height as the camera and along the same vertical and horizontal axis
 * The microphone will be in shot so the above is not easy, you may want to record a wild track seperately when there is not speech in scene
