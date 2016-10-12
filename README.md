@@ -48,7 +48,7 @@ The point of having a 360 degree view of scene is that you feel more immersed wh
 # Audio
 
 * The microphone is the viewers ears, place it at roughly the same height as the camera and along the same vertical and horizontal axis
-* The microphone will be in shot so the above is not easy, you may want to record a wild track seperately when there is not speech in scene
+* The microphone will be in shot so the above is not easy, you may want to record a wild track seperately when there is no speech in scene
 * Insure the microphone is on the spatial audio setting
 * Insure the microphone is open in 360 degrees 
 
