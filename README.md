@@ -16,7 +16,7 @@
 
 # Direction
 
-The viewer is the camera and they are part of your scene. Ask yourself what there role is and direct the scene accordingly.
+The viewer is the camera and they are part of your scene. Ask yourself what their role is and direct the scene accordingly.
 
 * Use sound to direct people to the action
 * Use narration or presenters to point or direct the viewers to the action
