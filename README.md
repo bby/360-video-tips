@@ -25,6 +25,9 @@ The viewer is the camera and they are part of your scene. Ask yourself what thei
 * This all needs to be done in one shot
 * You need to give the viewer enough time for people to realize where the action is 
 * You need to give the viewer enought time to move and digest what you are directing them too
+
+## Tricks
+
 * Shooting direct to camera and acknowledging the viewer down the lens creates a high level of immersion
 
 # Shot positions
