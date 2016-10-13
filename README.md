@@ -35,10 +35,14 @@ The viewer is the camera and they are part of your scene. Ask yourself what thei
 The point of having a 360 degree view of scene is that you feel more immersed when wearing a headset but also in most cases that there are things to look at in various directions.
 
 * In the center of action with it coreographed around the camera
-* A fly on the wall in documentary style with potentially slow tracking maintaing the orientation of the camera at all times
-* The viewer is the camera and they are part of your scene, if you intend them to 'be' there as another human hold the camera at chest level
-* Stabilize the camera especially if intending to view on a headset
-* Honor the horizon line, especiially if intending to view on a headset
+* A fly on the wall in documentary style with potentially slow tracking maintaining the orientation of the camera at all times
+* Stabilize the camera especially if intending to view on a headset, you'll make people sick and disorientated
+* Honor the horizon line, especiially if intending to view on a headset, you'll make people sick and disorientated
+
+## Tricks
+
+* If you intend the viewer to be at a human scale hold the camera at chest level
+* Playing with scale can be good, especially when in headset. You can make someone 10 feet tall or give them mouse sized view of the world
 
 # Lighting
 
