@@ -32,7 +32,7 @@ The viewer is the camera and they are part of your scene. Ask yourself what thei
 
 # Shot positions
 
-The point of having a 360 degree view of scene is that you feel more immersed when wearing a headset but most importantly that there are things to look at in various directions.
+The point of having a 360 degree view of scene is that you feel more immersed when wearing a headset but also in most cases that there are things to look at in various directions.
 
 * In the center of action with it coreographed around the camera
 * A fly on the wall in documentary style with potentially slow tracking maintaing the orientation of the camera at all times
