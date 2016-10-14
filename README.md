@@ -1,7 +1,7 @@
 # There is no behind the camera
 
 * If you don’t want to be in the scene you'll need to hide and remotely control the camera
-* What if the people around us don’t want to be seen on camera?
+* Think, what if the people around us don’t want to be seen on camera?
 
 # No need to pan or tilt
 
