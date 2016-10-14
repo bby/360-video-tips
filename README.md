@@ -48,8 +48,8 @@ The point of having a 360 degree view of scene is that you feel more immersed wh
 
 * Lighting will be in the shot
 * Embrace ambient light
-* Theres two cameras each dealing with exposure, flat lighting is good as each lens gets a consitent exposure
-* This is a point and shot sub £200 camera it will artifact in darkness and won't handle things like a Arctic white out
+* There are two cameras each dealing with exposure, flat lighting is good as each lens gets a consitent exposure
+* This is a point and shoot sub £200 camera, it will artifact in darkness and won't handle things like an Arctic white out
 * Avoid positioning your talent directly under any overhead lights
 
 # Audio
